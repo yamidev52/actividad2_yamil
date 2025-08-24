@@ -14,7 +14,7 @@ DrinkFinder es una aplicación desarrollada en **Android Studio** que permite bu
 ---
 
 ## 📱 Tecnologías utilizadas  
-- ⚙️ **Lenguaje principal**: Kotlin / Java  
+- ⚙️ **Lenguaje principal**: Java  
 - 🖌️ **Interfaz gráfica**: XML con Material Design  
 - 📡 **API**: [TheCocktailDB](https://www.thecocktaildb.com/api.php) (o similar para recetas de bebidas)  
 - 📲 **IDE**: Android Studio  
